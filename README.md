@@ -42,7 +42,7 @@ This project applies **data analytics + ML** to:
 
 ---
 
-##  Dataset
+## Dataset
 The dataset includes:
 - **Sales data:** Weekly sales by store & department  
 - **Markdowns:** Promotional markdowns (MarkDown1–5)  
@@ -51,7 +51,7 @@ The dataset includes:
 
 ---
 
-##  Business Problem
+## Business Problem
 - How can Walmart optimize **inventory & operations** across stores?  
 - Which **departments co-occur** frequently → cross-selling opportunities?  
 - What role do **external factors** (fuel, unemployment, CPI) play in sales fluctuations?  
@@ -59,7 +59,7 @@ The dataset includes:
 
 ---
 
-##  End-to-End Workflow
+## End-to-End Workflow
 
 ### 1. Project Setup
 - Virtual environment setup using Anaconda  
