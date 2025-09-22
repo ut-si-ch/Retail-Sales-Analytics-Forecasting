@@ -10,7 +10,7 @@
 ---
 
 ##  Table of Contents
-1. [Project Overview](#-project-overview)
+1. [Project Overview](#--project-overview)
 2. [Dataset](#-dataset)
 3. [Business Problem](#-business-problem)
 4. [End-to-End Workflow](#-end-to-end-workflow)
@@ -31,7 +31,7 @@
 
 ---
 
-##  Project Overview
+## Project Overview
 Retail businesses face challenges in managing **seasonality, external shocks, and customer preferences**.  
 This project applies **data analytics + ML** to:
 - Detect sales anomalies  
