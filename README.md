@@ -10,10 +10,10 @@
 ---
 
 ##  Table of Contents
-1. [Project Overview](#--project-overview)
-2. [Dataset](#-dataset)
-3. [Business Problem](#-business-problem)
-4. [End-to-End Workflow](#-end-to-end-workflow)
+1. [Project Overview](#project-overview)
+2. [Dataset](#dataset)
+3. [Business Problem](#business-problem)
+4. [End-to-End Workflow](#end-to-end-workflow)
     - [1. Project Setup](#1-project-setup)
     - [2. Data Ingestion & Exploration](#2-data-ingestion--exploration)
     - [3. Data Preprocessing & Feature Engineering](#3-data-preprocessing--feature-engineering)
@@ -25,9 +25,9 @@
     - [9. Impact of External Factors](#9-impact-of-external-factors)
     - [10. Personalization & Strategy](#10-personalization--strategy)
     - [11. Visualization & Reporting](#11-visualization--reporting)
-5. [Key Results](#-key-results)
-6. [Final Conclusions](#-final-conclusions)
-7. [Future Scope](#-future-scope)
+5. [Key Results](#key-results)
+6. [Final Conclusions](#final-conclusions)
+7. [Future Scope](#future-scope)
 
 ---
 
